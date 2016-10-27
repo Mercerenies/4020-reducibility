@@ -3,6 +3,7 @@
 
 {-
  - Brute force solution to a bonus problem in MATH 4020.
+ - Determines the factors of the polynomial x^10 - 1 in Z_11.
  - Silvio Mayolo
  -}
 
